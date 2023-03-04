@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  TexturedLit.cpp
+D:\Actual Shit\Uni\Third\graphics\Coursework\Week5Lab2Start\RenderLib\spheregeom.h(93,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  GeometryNode.cpp
+D:\Actual Shit\Uni\Third\graphics\Coursework\Week5Lab2Start\RenderLib\Node.h(15,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Actual Shit\Uni\Third\graphics\Coursework\Week5Lab2Start\RenderLib\Node.h(17,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  GroupNode.cpp
+D:\Actual Shit\Uni\Third\graphics\Coursework\Week5Lab2Start\RenderLib\Node.h(15,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Actual Shit\Uni\Third\graphics\Coursework\Week5Lab2Start\RenderLib\Node.h(17,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  lightDependLit.cpp
+D:\Actual Shit\Uni\Third\graphics\Coursework\Week5Lab2Start\RenderLib\spheregeom.h(93,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  LightNode.cpp
+D:\Actual Shit\Uni\Third\graphics\Coursework\Week5Lab2Start\RenderLib\Node.h(15,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Actual Shit\Uni\Third\graphics\Coursework\Week5Lab2Start\RenderLib\Node.h(17,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  MeshObject.cpp
+D:\Actual Shit\Uni\Third\graphics\Coursework\Week5Lab2Start\RenderLib\MeshObject.cpp(20,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Actual Shit\Uni\Third\graphics\Coursework\Week5Lab2Start\RenderLib\MeshObject.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+D:\Actual Shit\Uni\Third\graphics\Coursework\Week5Lab2Start\RenderLib\MeshObject.cpp(123,21): warning C4018: '<': signed/unsigned mismatch
+  TransformNode.cpp
+D:\Actual Shit\Uni\Third\graphics\Coursework\Week5Lab2Start\RenderLib\Node.h(15,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Actual Shit\Uni\Third\graphics\Coursework\Week5Lab2Start\RenderLib\Node.h(17,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  RenderLib.vcxproj -> D:\Actual Shit\Uni\Third\graphics\Coursework\Week5Lab2Start\RenderLib\Debug\RenderLib.lib

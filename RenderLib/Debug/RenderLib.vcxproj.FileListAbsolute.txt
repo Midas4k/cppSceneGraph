@@ -1,0 +1,3 @@
+D:\Week5Lab2Start\RenderLib\Debug\RenderLib.lib
+D:\Actual Shit\Uni\Third\graphics\Week5Lab2Start\Week5Lab2Start\RenderLib\Debug\RenderLib.lib
+D:\Actual Shit\Uni\Third\graphics\Coursework\Week5Lab2Start\RenderLib\Debug\RenderLib.lib
